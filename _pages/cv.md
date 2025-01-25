@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **University of Houston**  
+  Bachelor of Science in Computer Science  
+  Aug. 2022 – May 2026 (expected)  
+  *Relevant Coursework*: Data Structures and Algorithms, Relational Databases, Operating Systems, Object-Oriented Programming, Systems Programming, Software Engineering, Machine Learning
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Software Engineer Intern**  
+  *Bizmetric, Houston, TX*  
+  May 2024 – Aug. 2024  
+  - Designed and implemented data analytics solutions using Python and Power BI, reducing report generation time by 30%.
+  - Automated queries with Microsoft SQL Server, increasing data processing speed by 40%.
+  - Developed an AI model using Llama to automate customer support inquiries, cutting response times by 50% and enhancing customer satisfaction.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projects
+======
+* **Lol Character Build Guide Platform**  
+  *React, Spring Boot, MySQL, Java, JavaScript*  
+  - Created an intuitive UI for creating, sharing, and exploring champion build guides for League of Legends.
+  - Developed a RESTful API with Spring Boot for guide data management.
+  - Optimized data flow using Redux and implemented a robust MySQL database schema.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Personal Finance Calculator**  
+  *Java, JavaFX*  
+  - Built a comprehensive financial calculator application for managing income, expenses, and savings goals.
+  - Developed robust algorithms for budget analysis, savings projections, and debt repayment strategies.
+
+* **Chess Engine**  
+  *C++, Qt*  
+  - Developed a functional chess engine with the minimax algorithm, alpha-beta pruning, and evaluation functions.
+  - Integrated opening book and endgame theory for strategic gameplay.
+  - Designed UI components using Qt Designer for seamless navigation.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Languages**: Java, JavaScript, Python, C#, C, SQL, HTML/CSS, Bash, C++  
+* **Frameworks**: React, Node.js, Spring Boot, MySQL, Bootstrap  
+* **Developer Tools**: Git, Redux, VS Code, Visual Studio, IntelliJ, Eclipse  
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
