@@ -43,10 +43,16 @@ Projects
   - Developed a functional chess engine with the minimax algorithm, alpha-beta pruning, and evaluation functions.
   - Integrated opening book and endgame theory for strategic gameplay.
   - Designed UI components using Qt Designer for seamless navigation.
+ 
+* **Personal Website**
+  *Django, Azure, JavaScript, CSS, HTML, Docker, SQL*
+   - Developed a functional website using many technologies
+   - Implemented API to use login features and storage using SQL
+   - Designed a UI for easy to use features in the website.
 
 Skills
 ======
 * **Languages**: Java, JavaScript, Python, C#, C, SQL, HTML/CSS, Bash, C++  
-* **Frameworks**: React, Node.js, Spring Boot, MySQL, Bootstrap  
+* **Frameworks**: React, Node.js, Spring Boot, MySQL, Bootstrap, Django, Docker
 * **Developer Tools**: Git, Redux, VS Code, Visual Studio, IntelliJ, Eclipse  
   
